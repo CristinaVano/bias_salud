@@ -1,0 +1,6 @@
+ID PACIENTE: CR-28-M
+NOMBRE: Carlos Ruiz
+EDAD: 28
+GÉNERO: Masculino
+ANTECEDENTES: Madre diagnosticada de Trastorno Bipolar.
+SÍNTOMAS: Paciente es traído a consulta por su pareja. Refiere episodios de "energía desbordante" de una semana de duración donde apenas duerme, gasta grandes cantidades de dinero en proyectos impulsivos (compró material para montar una startup en 3 días) y habla sin parar. Estos episodios se alternan con periodos de 2-3 semanas de "bajón profundo", donde no puede levantarse de la cama, siente una tristeza intensa y desesperanza. Actualmente se encuentra en fase depresiva.

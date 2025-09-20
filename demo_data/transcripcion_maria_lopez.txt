@@ -1,0 +1,5 @@
+MÉDICO: María, los resultados de tu último electrocardiograma son perfectamente normales.
+PACIENTE: No lo entiendo, doctor. A veces siento que me va a dar un infarto. El corazón se me acelera de repente, me falta el aire... Es horrible, pienso que me voy a morir.
+MÉDICO: Estos síntomas que describes, especialmente cuando las pruebas físicas son negativas, son muy característicos de un trastorno de ansiedad. ¿Te sientes a menudo preocupada o nerviosa?
+PACIENTE: Siempre. Estoy todo el día dándole vueltas a todo. A mis padres, al trabajo... no desconecto nunca.
+MÉDICO: Vamos a trabajar en ello. La Terapia Cognitivo-Conductual es muy efectiva para aprender a gestionar estos pensamientos. También podemos valorar un tratamiento farmacológico de apoyo si fuera necesario.

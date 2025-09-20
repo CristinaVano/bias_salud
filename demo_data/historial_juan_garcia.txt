@@ -1,0 +1,7 @@
+ID PACIENTE: JG-48-M
+NOMBRE: Juan García
+EDAD: 48
+GÉNERO: Masculino
+ANTECEDENTES: Padre con historial de trastorno depresivo. Paciente sin diagnósticos psiquiátricos previos. Estrés laboral reportado (manager en sector tecnológico).
+SÍNTOMAS: Paciente refiere ánimo bajo persistente, anhedonia (pérdida de interés en hobbies como el golf y la lectura), insomnio de conciliación y fatiga constante desde hace aproximadamente seis meses. Dificultad para concentrarse en el trabajo. Aumento de consumo de alcohol (2-3 copas de vino por noche). Niega ideación autolítica.
+MARCADOR GENÉTICO (SIMULADO): Variante del gen SLC6A4 asociada a menor respuesta a ISRS estándar como la Fluoxetina.

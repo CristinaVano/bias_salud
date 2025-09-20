@@ -1,0 +1,6 @@
+ID PACIENTE: ML-35-F
+NOMBRE: María López
+EDAD: 35
+GÉNERO: Femenino
+ANTECEDENTES: Sin antecedentes psiquiátricos familiares. Paciente refiere alta carga de trabajo y responsabilidad como cuidadora principal de sus padres.
+SÍNTOMAS: Paciente acude a consulta por "palpitaciones, dificultad para respirar y mareos" recurrentes. Múltiples visitas a urgencias con resultados cardiológicos negativos. Preocupación constante y excesiva por la salud de su familia y su rendimiento laboral. Tensión muscular, especialmente en cuello y hombros. Dificultad para relajarse. Describe "ataques de pánico" episódicos.

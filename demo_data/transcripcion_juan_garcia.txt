@@ -1,0 +1,6 @@
+MÉDICO: Buenos días, Juan. Cuéntame cómo te has sentido estas últimas dos semanas.
+PACIENTE: Pues... igual, doctor. Sin ganas de nada. Me levanto más cansado de lo que me acuesto. En el trabajo me cuesta un mundo sacar las cosas adelante, estoy muy disperso.
+MÉDICO: ¿Y el ánimo?
+PACIENTE: Por los suelos. Es como si todo fuera gris. Ya no disfruto ni jugando con mis hijos.
+MÉDICO: Entiendo. Dados los síntomas y tu historial, vamos a iniciar un plan. Te voy a recetar Sertralina, que ha mostrado buena eficacia en casos como el tuyo. Empezaremos con una dosis baja y re-evaluaremos en dos semanas. ¿De acuerdo?
+PACIENTE: De acuerdo, doctor. Gracias.
