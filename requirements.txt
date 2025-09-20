@@ -1,0 +1,8 @@
+streamlit
+pandas
+streamlit-lottie
+streamlit-authenticator==0.2.2
+PyYAML
+openai
+markdown2
+python-dotenv

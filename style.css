@@ -1,0 +1,32 @@
+/* style.css */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+html, body, [class*="st-"] { font-family: 'Inter', sans-serif; }
+h1, h3, h4, p, .stMarkdown, .stCaption { color: #ECEFF4; }
+h2, .stSubheader { font-size: 1.5rem !important; font-weight: 600 !important; color: #ECEFF4 !important; }
+hr { border-top: 3px solid #4C566A !important; margin: 2rem 0 !important; }
+[data-testid="stSidebar"] { background-color: #FFFFFF; }
+[data-testid="stSidebar"] * { color: #2E3440 !important; font-weight: 600 !important; }
+[data-testid="stSidebar"] [data-testid="stImage"] { background-color: #2E3440; padding: 10px; border-radius: 10px; margin-bottom: 20px; }
+[data-testid="stMetric"] { background-color: #3B4252; border: 1px solid #4C566A; border-radius: 10px; padding: 20px; text-align: center; }
+[data-testid="stMetricLabel"] { color: #00F2DE; }
+[data-testid="stMetricValue"] { font-size: 3rem; color: #ECEFF4; }
+.ai-response { background-color: #4C566A; border-left: 5px solid #00F2DE; padding: 1.5rem; border-radius: 8px; white-space: pre-wrap; word-wrap: break-word; }
+.ai-response h2, .ai-response h3, .ai-response h4 { font-weight: bold; font-size: 1.5rem !important; margin-bottom: 1.5rem !important; color: #00F2DE; }
+.ai-response p { margin-bottom: 0.5rem !important; line-height: 1.6; }
+.ai-response ul { list-style-type: none !important; padding-left: 0 !important; margin: 0; }
+.ai-response li p { margin-bottom: 0.5rem !important; }
+header { visibility: hidden; }
+[data-testid="stAppViewContainer"] > .main { padding-top: 2rem; }
+
+/* --- CURSOR PARA EL EFECTO MÁQUINA DE ESCRIBIR --- */
+.typewriter-cursor {
+    display: inline-block;
+    background-color: #00F2DE; /* Cian Eléctrico */
+    width: 3px;
+    height: 2.5rem; /* Ajusta a la altura de tu h1 */
+    margin-left: 5px;
+    animation: blink 1s infinite;
+    vertical-align: bottom;
+}
+@keyframes blink { 50% { background-color: transparent; } }
